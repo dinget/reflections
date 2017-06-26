@@ -18,7 +18,7 @@ How might using version control make you more confident to make changes that cou
 IF you do break something you can use version vontrol to go back to a version of the file which didn't have the issue and quickly find the cause by comparing with diff.
 
 Now that you have your workspace set up, what do you want to try using Git for?
-Setting up version-control for my own files
+Setting up version-control for my own files+
 
 
 
