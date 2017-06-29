@@ -11,3 +11,7 @@ Some commits may be a part of an unfinished feature. Automatic "pulls" may resul
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Allows you to compare your own branches to the stored remote and merge them when ready to push your changes.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+You would have to manually send files to the poeple you are collaberating with. This would be slower and would be harder to do with many people as mistakes would be more likely. 
+
