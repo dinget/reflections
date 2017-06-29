@@ -15,3 +15,5 @@ Allows you to compare your own branches to the stored remote and merge them when
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 You would have to manually send files to the poeple you are collaberating with. This would be slower and would be harder to do with many people as mistakes would be more likely. 
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When you want to add an experimental feature. The benefit of a separate branch is that it doesnt effect the main program meaning if something goes wrong the original master program willl still work.
