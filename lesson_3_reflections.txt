@@ -6,6 +6,8 @@ Forks = cloning github repository to own github
 clones = getting repository to local device
 branches = local commits
 
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Some commits may be a part of an unfinished feature. Automatic "pulls" may result in unfinished code being introduced leading to bugs.
+
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Allows you to compare your own branches to the stored remote and merge them when ready to push your changes.
-
